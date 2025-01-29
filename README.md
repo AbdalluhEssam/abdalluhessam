@@ -1,22 +1,24 @@
 [![Header](https://raw.githubusercontent.com/abdalluhessam/abdalluhessam/main/assets/banner.png)](https://abdalluhessam.io)
 
 <h1 align="center">Hi 👋, I'm Abdalluh Essam</h1>
-<h3 align="center">A Passionate Flutter Developer | Building Cross-Platform Solutions</h3>
+<h3 align="center">Mobile App Developer | Flutter Expert | Building Seamless Cross-Platform Experiences</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abdalluhessam/abdalluhessam/main/assets/coding.gif"/>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **SG-Group** as a Flutter Developer.
-- 🌱 Constantly learning and mastering **Flutter & Dart**.
-- 💬 Ask me about **Android, iOS, and Desktop development**.
+I'm a passionate **Mobile App Developer** specializing in **Flutter** for building beautiful, high-performance cross-platform applications. With a strong focus on clean code and user-friendly design, I love turning ideas into reality. Whether it's Android, iOS, or desktop apps, I'm always ready to tackle new challenges and deliver top-notch solutions.
+
+- 🔭 I’m currently working at **SG-Group** as a Flutter Developer.
+- 🌱 Constantly learning and mastering **Flutter, Dart, and Mobile Development**.
+- 💬 Ask me about **Flutter, Android, iOS, and Desktop development**.
 - 📫 How to reach me: **abdallhesam100@gmail.com**
-- ⚡ Fun fact: **I love solving problems with clean and efficient code.**
+- ⚡ Fun fact: **I believe every problem has a solution, and I love finding it through code!**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack:
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
@@ -61,7 +63,7 @@
 
 ---
 
-### 🌐 Connect with Me:
+### 📞 Contact Me:
 <p align="left">
   <a href="https://twitter.com/abdalluh_essam2" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -74,6 +76,9 @@
   </a>
   <a href="https://instagram.com/abdalluh_essam_22" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:abdallhesam100@gmail.com" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
