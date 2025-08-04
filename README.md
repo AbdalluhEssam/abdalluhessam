@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">📱 Senior Mobile Application Developer | Flutter Specialist | Published on App Stores 🚀</h3>
+<h3 align="center">📱 Mobile Application Developer | Flutter Specialist | Published on App Stores 🚀</h3>
 
 <div align="center">
   <img src="https://github.com/AbdalluhEssam/AbdalluhEssam/blob/main/assets/mobile-dev.gif" width="500" alt="Mobile Development"/>
